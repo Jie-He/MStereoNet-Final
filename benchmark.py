@@ -43,7 +43,7 @@ log_path    = 'models/logs'
 save_path   = 'models/weights'
 
 ## Add model name to it as well
-write_path = 'D:/StereoTrainingSet/EPE/'
+write_path = data_paths['EPE_path']
 
 write_error_image = OPTIONS.save_error_image
 
